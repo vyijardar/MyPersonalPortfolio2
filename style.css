@@ -5,7 +5,6 @@ body {
     max-width: 960px;
     margin: 0 auto;
 }
-
 /* Navigation bar */
 .navbar {
     background-color: black;
@@ -69,7 +68,6 @@ body {
 .description p {
     text-align: justify;
     font-size: 18px;
-
 }
 
 .quote {
