@@ -8,4 +8,4 @@ form.addEventListener('submit', (e) => {
   window.location.href = window.location.origin + '/success.html'
 })
 
-alert("Your Form is Successfully Submitted.");
+alert("Your Form is Submitted Successfully.");
